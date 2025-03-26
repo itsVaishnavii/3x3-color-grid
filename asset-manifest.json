@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/3x3-color-grid/static/css/main.b0666473.css",
+    "main.js": "/3x3-color-grid/static/js/main.c2654142.js",
+    "static/js/453.d26fb307.chunk.js": "/3x3-color-grid/static/js/453.d26fb307.chunk.js",
+    "index.html": "/3x3-color-grid/index.html",
+    "main.b0666473.css.map": "/3x3-color-grid/static/css/main.b0666473.css.map",
+    "main.c2654142.js.map": "/3x3-color-grid/static/js/main.c2654142.js.map",
+    "453.d26fb307.chunk.js.map": "/3x3-color-grid/static/js/453.d26fb307.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0666473.css",
+    "static/js/main.c2654142.js"
+  ]
+}
